@@ -9,7 +9,6 @@
 #   containers:
 #   - name: nginx
 #     image: nginx
-# test_line
 
 apiVersion: v1
 kind: Pod
